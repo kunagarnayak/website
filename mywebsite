@@ -1,7 +1,11 @@
 #This is my webside
 Welcome to my webside
-<Login page>
-please enter your id:
-please enter your pwd :
+<New fancy Login>
+Your ID:
+Your PWD :
+if you don't have account, please create one ###SIGNUP######
 please click here to login ##
+
+echo " Hello $YOURID , welcome to my website "
+
 
