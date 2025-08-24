@@ -7,3 +7,9 @@ Your PWD :
 if you don't have account, please create one ###SIGNUP######
 please click here to ##login ##
 echo " Hello $YOURID , welcome to my website "
+#Adding new payment
+Please enetr the below details for payment:
+ACCOUNT HOLDER NAME:____________________
+ACCOUNT NUMBER : __________________
+IFRC CODE: ______________
+Click here for #Payment
